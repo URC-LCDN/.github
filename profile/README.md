@@ -3,8 +3,7 @@
 
 ## ¡Bienvenido!
 
-Esta organización tiene como finalidad, poner a disposición de los estudiantes de la Licenciatura en Ciencias de Datos para Negocios (LCDN)  
-de la Universidad Rosario Castellanos (URC), repositorios para refozar los aprendizajes obtenidos en el aula de clases.  
+Esta organización tiene como finalidad, poner a disposición de los estudiantes de la Licenciatura en Ciencias de Datos para Negocios (LCDN) de la Universidad Rosario Castellanos (URC), repositorios para refozar los aprendizajes obtenidos en el aula de clases.  
 
 Hasta el momento la organización sólo cuenta con material de los profesores del Campus La Magdalena Contreras (MAC), pero el objetivo final es que contemos con material de todos los docentes de todos los campus de la URC de la LCDN.        
 
