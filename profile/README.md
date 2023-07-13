@@ -11,6 +11,10 @@ Hasta el momento la organización sólo cuenta con material de los profesores de
 
 Eres alumno y tienes un proyecto que te parezca interesante y quieras compartir ó eres profesor de la URC de la LCDN y quieres que tu material de clase este alojado aquí; ponte en contacto con los administradores de favor.  
 
+## Contribuidores
+
+ * **Miguel Evangelista** - [@mevangelista-alvarado](https://github.com/mevangelista-alvarado)
+
 ## Administradores
 
  * **Miguel Evangelista** - [@mevangelista-alvarado](https://github.com/mevangelista-alvarado)
