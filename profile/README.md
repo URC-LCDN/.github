@@ -14,7 +14,7 @@ Eres profesor de la URC de la LCDN y quieres que colaborar compartiendo tu mater
 
 Si no eres parte de la organización URC, contacta a los administradores para que te hagan parte y así puedas colaborar con este proyecto.  
 
-Del mismo si tienes alguna duda o sugerencia, contacta a los administradores. 
+Del mismo modo, si tienes alguna duda o sugerencia, contacta a los administradores. 
 
 
 ## Contribuidores
