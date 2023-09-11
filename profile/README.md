@@ -7,7 +7,7 @@ Esta organización tiene como finalidad, poner a disposición de los estudiantes
 
 Este es un proyecto en una etapa inicial, por lo tanto, es un trabajo en progreso y en constante actualización; el objetivo final es que todos los docentes de la URC aporten de forma colaborativa y activa material acerca de todas las materias impartidas en LCDN.  
 
-De igual manera, si eres estudiante y te gustaría colaborar en un proyecto lo puedes hacer sólo tienes que comentarlo con tu profesor para que él te la orientacion requerida.
+De igual manera, si eres estudiante y te gustaría colaborar en un proyecto lo puedes hacer, sólo tienes que comentarlo con tu profesor para que él te la orientación requerida.
 
 
 ## Contribuciones
