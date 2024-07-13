@@ -20,7 +20,7 @@ Del mismo modo, si tienes alguna duda o sugerencia, contacta a los administrador
 
 
 ## Contribuidores
-*Miguel Ángel Herrera* **([@mahmc](https://github.com/mahmc))** y *Miguel Evangelista Alvarado* **([@mevangelista-alvarado](https://github.com/mevangelista-alvarado))**.
+*Fernando Izquierdo* **([@Fernando-Izquierdo](https://github.com/Fernando-Izquierdo))**, *Miguel Ángel Herrera* **([@mahmc](https://github.com/mahmc))** y *Miguel Evangelista* **([@mevangelista-alvarado](https://github.com/mevangelista-alvarado))**.
 
 
 ## Administradores
